@@ -8,6 +8,7 @@ Resources/inspiration:
 
 * http://en.wikipedia.org/wiki/Speech_act
 * http://www-formal.stanford.edu/jmc/elephant/elephant.html
+* http://www-formal.stanford.edu/jmc/ascribing/ascribing.html
 * https://www.youtube.com/watch?v=4qFvNMnPX68
 * https://github.com/gigasquid/babar
 * http://gigasquidsoftware.com/blog/2014/06/11/a-taste-of-the-star-programming-language/
